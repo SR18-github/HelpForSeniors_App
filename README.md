@@ -1,7 +1,3 @@
-# HelpForSeniors_App
-This is the HelpForSeniors_App I used making python.
-
-#code
 
 print("Hello! Welcome to the HelpForSeniors App Verson 1.0")
 
